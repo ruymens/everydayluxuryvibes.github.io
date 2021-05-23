@@ -1,0 +1,9 @@
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 64 64">
+    <defs/>
+    <g id="outline__fb" vectornator:layerName="outline__fb">
+    <path stroke="#ffffff" stroke-width="5" d="M31.6263+3L32.3737+3C48.1836+3+61+15.9837+61+32L61+32C61+48.0163+48.1836+61+32.3737+61L31.6263+61C15.8164+61+3+48.0163+3+32L3+32C3+15.9837+15.8164+3+31.6263+3Z" fill="none" stroke-linecap="butt" opacity="1" stroke-linejoin="round"/>
+    </g>
+    <g id="logo__fb" vectornator:layerName="logo__fb">
+    <path d="M47+32.0919C47+23.7567+40.2846+17+32.0019+17C23.7154+17.0019+17+23.7567+17+32.0937C17+39.6247+22.4856+45.8676+29.6547+47L29.6547+36.4544L25.8489+36.4544L25.8489+32.0937L29.6584+32.0937L29.6584+28.766C29.6584+24.9846+31.8988+22.8961+35.324+22.8961C36.9663+22.8961+38.6817+23.1905+38.6817+23.1905L38.6817+26.9025L36.79+26.9025C34.9284+26.9025+34.3472+28.0667+34.3472+29.261L34.3472+32.0919L38.5054+32.0919L37.8418+36.4526L34.3453+36.4526L34.3453+46.9981C41.5144+45.8658+47+39.6228+47+32.0919Z" opacity="1" fill="#ffffff"/>
+    </g>
+</svg>
